@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tawsif Khan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tawsif Khan"
 description              : &description "Analytics Consultant"
 url                      : https://tawsifkhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
