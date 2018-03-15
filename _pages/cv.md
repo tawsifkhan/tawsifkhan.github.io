@@ -25,3 +25,5 @@ redirect_from:
 * Wealth Management, Loyalty Analytics, Credit Card Analytics
 * Campaign design and post-campaign analysis
 
+[Click here for PDF](/files/Tawsif_Resume.pdf) 
+
