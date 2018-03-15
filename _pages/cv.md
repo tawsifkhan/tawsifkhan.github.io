@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Profile Summary"
 permalink: /profile/
 author_profile: true
 redirect_from:
