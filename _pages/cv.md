@@ -21,9 +21,10 @@ redirect_from:
 
 ### Skills
 * Python, R, SQL, SAS
-* Data Visualization, Predictive Analytics
-* Wealth Management, Loyalty Analytics, Credit Card Analytics
+* Mathematical Modelling, Predictive Analytics, Visualizations
 * Campaign design and post-campaign analysis
+* Industry Experience - Wealth Management, Loyalty, Credit Card
 
-[Click here for PDF](/files/Tawsif_Resume.pdf) 
+
+__[Click here for PDF](/files/Tawsif_Resume.pdf)__
 
