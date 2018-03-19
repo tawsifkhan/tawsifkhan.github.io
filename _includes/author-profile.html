@@ -94,6 +94,9 @@
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fa fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
+      {% if author.px500 %}
+        <li><a href="https://www.500px.com/{{ author.px500 }}"><i class="fa fa-fw fa-500px" aria-hidden="true"></i> 500px</a></li>
+      {% endif %}
       {% if author.codepen %}
         <li><a href="https://codepen.io/{{ author.codepen }}"><i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen</a></li>
       {% endif %}
