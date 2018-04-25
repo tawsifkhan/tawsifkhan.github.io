@@ -21,10 +21,11 @@ redirect_from:
 
 ### Skills
 * Python, R, SQL, SAS
-* Mathematical Modelling, Predictive Analytics, Visualizations
-* Campaign design and post-campaign analysis
+* Data preparation, collection, and cleansing
+* Insights presentations 
 * Industry Experience - Wealth Management, Loyalty, Credit Card
 
 
-__[Click here for PDF](/files/Tawsif_Resume.pdf)__
+
+### *[Click here for PDF](/files/Tawsif_Resume.pdf)*
 
