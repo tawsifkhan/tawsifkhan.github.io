@@ -16,7 +16,7 @@ redirect_from:
 * Teaching Assistant, *University of Waterloo/North South University*, 2011 - 2015
 
 ### Education
-* MMath in Applied Mathematics, *University of Waterloo*, 2015
+* MMath in Applied Mathematics, *University of Waterloo*, 2015 [*[Thesis](https://uwspace.uwaterloo.ca/bitstream/handle/10012/9507/Khan_Tawsif.pdf?sequence=1&isAllowed=y)*]
 * B.S. in Electrical Engineering, *North South University*, 2013
 
 ### Skills
