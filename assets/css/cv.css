@@ -113,7 +113,8 @@ h1
 
 .inner h1
 {
-	font-size:1.5em;
+	font-size:1.25em;
+	margin-top:50px;
 }
 
 .inner p
