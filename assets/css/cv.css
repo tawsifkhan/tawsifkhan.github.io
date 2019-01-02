@@ -114,7 +114,6 @@ h1
 .inner h1
 {
 	font-size:1.25em;
-	margin-bottom:50px;
 }
 
 .inner p
@@ -131,6 +130,7 @@ h1
 .inner section
 {
 	margin-top: -10px;
+	margin-bottom: 50px;
 }
 
 ul
