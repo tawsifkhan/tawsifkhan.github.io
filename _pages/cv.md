@@ -1,13 +1,4 @@
----
-layout: archive
-title: "Profile Summary"
-permalink: /profile/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
 
 ### Work Experience
 * Consultant, *Financial Analytics, Aimia Inc.*, 2017 - Present
