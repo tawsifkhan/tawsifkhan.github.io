@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"FFF",
+				"FFFFFF"
+			],
+			[
+				"wra",
+				"word-wrap"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"item",
+				"item_1_id"
+			],
+			[
+				"prod",
+				"prod_id"
+			],
+			[
+				"seg",
+				"segments"
+			],
+			[
+				"trans",
+				"trans_id"
+			],
+			[
+				"SEG",
+				"segment_revenue"
+			],
+			[
+				"RE",
+				"revenue"
+			],
+			[
+				"INT",
+				"integer"
+			],
+			[
+				"segmen",
+				"segment_revenue"
+			],
+			[
+				"pro",
+				"prod_id"
+			],
+			[
+				"CU",
+				"current_segments"
+			],
+			[
+				"c",
+				"current_segments"
+			],
+			[
+				"update",
+				"update_at"
+			],
+			[
+				"upd",
+				"update_at"
+			],
+			[
+				"cust",
+				"cust_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Tawsif/Documents/New_Wesbite/tawsifkhan.github.io-master 2/portfolio-4.html",
+		"/Users/Tawsif/Documents/New_Wesbite/tawsifkhan.github.io-master 2/portfolio-5.html",
+		"/Users/Tawsif/Documents/New_Wesbite/tawsifkhan.github.io-master 2/index.html",
+		"/Users/Tawsif/Documents/tawsifkhan.github.io/portfolio-3.html",
+		"/Users/Tawsif/Documents/mywebsite/New_Website/themeforest-20111046-pro-card-material-cv-resume-vcard-template/PRO Card - Material CV Template/Amber/index.html",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/index.html",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/portfolio-1.html",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/css/main.css",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/js/main.js",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/css/transition-animations.css",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/css/magnific-popup.css",
+		"/Users/Tawsif/Documents/New_Wesbite/Light Blue/css/animate.css",
+		"/Users/Tawsif/Documents/mywebsite/css/main.css",
+		"/Users/Tawsif/Documents/tawsifkhan_1.github.io/index.html",
+		"/Users/Tawsif/Documents/Website/Kards10/index.html",
+		"/Users/Tawsif/Downloads/Kards10/index.html",
+		"/Users/Tawsif/Downloads/CV-Template/index.html",
+		"/Users/Tawsif/Documents/Github/analytics_notebook/README.md",
+		"/Users/Tawsif/Documents/Github/analytics_notebook/Python/color_scheme.md",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/Solutions/SQL/sql_problem4.sql",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/Solutions/SQL/sql_problem3.sql",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/Solutions/SQL/sql_problem2.sql",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/Solutions/SQL/sql_problem1.sql",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/sql/sql_problem1.sql",
+		"/Users/Tawsif/Documents/Python/bar_chart.py",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/Solutions/SQL/Problem_5/prod_assoc_analysis.sql",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/Solutions/Python/problem1.py",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/sql/rev_by_segments.sql",
+		"/Users/Tawsif/Documents/RubikloudTest/TechnicalTest/sql/test_code.sql",
+		"/Users/Tawsif/Documents/Rubikloud Test/TechnicalTest/sql/README.md",
+		"/Users/Tawsif/Downloads/TechnicalTest/sql/README.md",
+		"/Users/Tawsif/Downloads/TechnicalTest/stats/README.md",
+		"/Users/Tawsif/Downloads/TechnicalTest/README.md",
+		"/Users/Tawsif/Documents/R/GTD/Shiny/google-analytics.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"portfolio",
+			"#",
+			"alex smith",
+			"portfolio-1",
+			"portfolio",
+			"location",
+			"Smith",
+			"Alex",
+			"alex",
+			"logo",
+			"position",
+			"image-with",
+			"logo",
+			"FF0077",
+			"col-twelve",
+			"about",
+			"intro",
+			"section-intro",
+			"INTRO",
+			"fa",
+			"intro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Tawsif Khan",
+			"Khan",
+			"Tawsif"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
