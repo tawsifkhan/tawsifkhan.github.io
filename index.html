@@ -529,7 +529,6 @@
                   <h2>Photography</h2>
                 </div>
                 <div class="page-content">
-                <h3>Section to be updated</h3>
                 <div id="instafeed" class="flex animated"></div>
                 <script>
                     // Load Instafeed
@@ -542,6 +541,11 @@
                       tagName: 'photography',
                       resolution: 'standard_resolution',
                       sortBy: 'most-recent'
+
+                      //filter: function(image) {
+                      //  return image.tags.indexOf('berries') >= 0;
+                      //}
+
                     });
                     feed.run();
                 </script>
