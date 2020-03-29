@@ -96,7 +96,7 @@ body:after{
 }
 
 a {
-  color: #223842;
+  --color: #223842;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -2074,7 +2074,7 @@ body > footer .copyrights {
 }
 
 .project-general-info .fa {
-  color: #13d4ed;
+  color: #223842;
   margin-right: 5px;
 }
 
