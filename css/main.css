@@ -2614,7 +2614,7 @@ blockquote footer, blockquote small, blockquote .small {
     width: calc(25% - 20px);
     margin: 10px;
     height: 200px;
-    border-radius: 10px;
+    border-radius: 0px;
     object-fit: cover;
 }
 
@@ -2629,7 +2629,7 @@ blockquote footer, blockquote small, blockquote .small {
       width: calc(25% - 20px);
       margin: 10px;
       height: 50px;
-      border-radius: 10px;
+      border-radius: 0px;
       object-fit: cover;
   }
 
