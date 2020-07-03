@@ -525,33 +525,32 @@
             <!-- /Portfolio Subpage -->
 
             <section class="pt-page" data-id="photography">
-              <script src="js/instafeed.min.js"></script>
+              <!--<script src="js/instafeed.min.js"></script>-->
               <div class="section-inner custom-page-content">
                 <div class="page-header color-1">
                   <h2>Photography</h2>
                 </div>
                 <div class="page-content">
                 <div id="instafeed" class="flex animated"></div>
-                <script>
-                    // Load Instafeed
-                    var feed = new Instafeed({
-                      get: 'user',
-                      userId: '549899180',
-                      clientId: '4c332cedd16a4c178255512665f4a09d',
-                      accessToken: '549899180.1677ed0.11b3dd6249bc4ecf93207755d2159f15',
-                      limit: 32,
-                      tagName: 'photography',
-                      resolution: 'standard_resolution',
-                      sortBy: 'most-recent'
-
-                      //filter: function(image) {
-                      //  return image.tags.indexOf('berries') >= 0;
-                      //}
-
-                    });
-                    feed.run();
-                </script>
-
+                <script src="js/jquery.instagramFeed.min.js"></script>
+  <script>
+      (function($){
+          $(window).on('load', function(){
+              $.instagramFeed({
+                  'username': 'tawsifk',
+                  'container': "#instafeed",
+                  'display_profile': false,
+                  'display_biography': false,
+                  'display_gallery': true,
+                  'callback': null,
+                  'styling': true,
+                  'items': 24,
+                  'items_per_row': 3,
+                  'margin': 0
+              });
+          });
+      })(jQuery);
+  </script>
           </div>
         </div>
       </section>
