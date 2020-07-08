@@ -2628,7 +2628,7 @@ blockquote footer, blockquote small, blockquote .small {
   #instafeed a img {
       width: calc(25% - 20px);
       margin: 10px;
-      height: 100px;
+      height: 150px;
       border-radius: 0px;
       object-fit: cover;
   }
