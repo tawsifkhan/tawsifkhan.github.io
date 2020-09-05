@@ -533,21 +533,21 @@
                 <div class="page-content">
                 <div id="instafeed" class="flex animated"></div>
                 <script src="js/jquery.instagramFeed.min.js"></script>
+  <script src="js/instagramFeed.min.js"></script>
   <script>
       (function($){
           $(window).on('load', function(){
-              $.instagramFeed({
-                  'username': 'tawsifk',
-                  'container': "#instafeed",
-                  'display_profile': false,
-                  'display_biography': false,
-                  'display_gallery': true,
-                  'callback': null,
-                  'styling': true,
-                  'items': 24,
-                  'items_per_row': 2,
-                  'margin': 2
-              });
+            $.instagramFeed({
+                'username': 'tawsifk',
+                'container': "#instafeed",
+                'display_profile': false,
+                'display_biography': true,
+                'display_gallery': true,
+                'callback': null,
+                'styling': false,
+                'items': 12,
+                'items_per_row': 2
+            });
           });
       })(jQuery);
   </script>
