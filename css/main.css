@@ -92,7 +92,7 @@ body.ajax-page-visible {
 
 body:after{
  display:none;
- content: url('../images/photo-default.png') url('../images/photo.png');
+ content: url('../images/profile-pic.png') /*url('../images/photo.png')*/;
 }
 
 a {
