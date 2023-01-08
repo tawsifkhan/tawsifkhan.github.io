@@ -878,7 +878,7 @@ body > footer .copyrights {
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background: #fff url('../images/pro-pic.png') center center no-repeat;
+  background: #fff url('../images/profile-pic.png') center center no-repeat;
   background-size: 100%;
 }
 
