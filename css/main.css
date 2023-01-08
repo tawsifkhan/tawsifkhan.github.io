@@ -865,7 +865,7 @@ body > footer .copyrights {
 }
 
 .start-page-content .page-header .photo {
-  max-width: 280px;
+  /*max-width: 280px;*/
   height: 280px;
   margin-bottom: -75px;
   border: 1px solid #fff;
@@ -2394,7 +2394,7 @@ blockquote footer, blockquote small, blockquote .small {
     color: #fff;
     font-size: 18px;
     font-weight: 400;
-    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: 0;
     line-height: 50px;
   }
