@@ -868,7 +868,7 @@ body > footer .copyrights {
   max-width: 280px;
   height: 280px;
   margin-bottom: -75px;
-  border: 0px solid #fff;
+  border: 1px solid #fff;
   background-color: transparent;
   -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
   -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
