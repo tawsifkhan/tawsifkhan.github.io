@@ -2562,7 +2562,7 @@ blockquote footer, blockquote small, blockquote .small {
   }
 
   .start-page-content .page-header .photo {
-    max-width: 200px;
+    /*max-width: 200px;*/
     margin: 0 auto;
   }
 
